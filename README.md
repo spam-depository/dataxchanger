@@ -1,4 +1,4 @@
-The dataXchanger is a proofofconcept implementation to demonstrate an easy way to transfer DICOM-files using an FTP-server and end-to-end encryption. Unfortunately there is no extensive documentation yet, but you may use the programs help-flag or have a look into the sourcecode.
+The dataXchanger is a proof of concept implementation to demonstrate an easy way to transfer DICOM-files using an FTP-server and end-to-end encryption. Unfortunately there is no extensive documentation yet, but you may use the programs help-flag or have a look into the sourcecode.
 
 dataXchanger is Copyrigth 2013 Kornelius Podranski.
 dataXchanger is free software: you can redistribute it and/or modify
